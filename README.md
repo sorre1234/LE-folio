@@ -1,8 +1,6 @@
-# React + Vite
+## LE-folio 🍋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+LE-folio (Lemon Energy Portfolio) is my comprehensive 3D developer portfolio, showcasing all my projects and highlighting a detailed timeline of my achievements and milestones. It also includes a dedicated contact page to facilitate communication through email, making it easy for potential collaborators or employers to reach out. This portfolio provides an in-depth look at my journey, skills, and expertise in 3D development, reflecting my professional growth and accomplishments.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Home Page]("src\Readme.images\LE_folio_home_page.png")
