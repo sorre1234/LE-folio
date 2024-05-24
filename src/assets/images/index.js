@@ -9,6 +9,8 @@ import lemonimg from './lemon-resize.png'
 import memories from './memoriesLogo.png'
 import muscleblaze from './muscle-spasm.png'
 import roboism from './Roboism.png'
+import githubimg from './github.png'
+import linkedinimg from './linkedin.png'
 
 export {
     hero,
@@ -21,5 +23,7 @@ export {
     lemonimg,
     memories,
     muscleblaze,
-    roboism
+    roboism,
+    githubimg,
+    linkedinimg
 }
