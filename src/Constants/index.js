@@ -242,7 +242,7 @@ export const projects = [
     name: "LE-folio",
     description:
       "LE-folio(Lemon-Energy Portfolio) is a 3d portfolio website template that is fully responsive and customizable, built using React, Tailwind CSS, and Three.js. The portfolio includes an About page which shows my skills and what I've done so far including my projects and upcoming prospects, and a Projects page which shows my projects. It also includes a contact form that can be used by visitors to get in touch with the developer. It is easy to use and can be customized to fit the needs of any developer.",
-    link: "https://github.com/adrianhajdin/projects_realestate",
+    link: "https://le-folio.netlify.app/",
   },
   // {
   //     iconUrl: summiz,
