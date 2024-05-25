@@ -18,7 +18,8 @@ const renderContent = {
   1: (
     <h1 className="sm:text-xl sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5">
       Hi, I am <span className="font-semibold">Sourab</span>👋
-      <br />A Student, Developer, and a tech enthusiast from India.
+      <br />A Student, Developer, and a tech enthusiast from India. 
+      <br />Explore further by dragging the mouse 🢂
     </h1>
   ),
   2: (
